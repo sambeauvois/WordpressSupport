@@ -1,10 +1,10 @@
 
--Problem:-
+# Problem:
 
 After updating a Wordpress, encoding issue can happen
 
 
--Solution :-
+# Solution :
 
 Edit wp.config file
 
