@@ -1,4 +1,5 @@
+# FAQ
 
-[Encoding issues after an update](EncodingIssue.md)
+- [Encoding issues after an update](EncodingIssue.md)
 
 
