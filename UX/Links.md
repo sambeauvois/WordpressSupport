@@ -6,3 +6,4 @@ https://ux.stackexchange.com/questions/45085/how-should-i-present-100-client-log
 
 https://www.templatemonster.com/blog/featured-clients-list-hover-descriptions-tutorial/
 
+- SEO -> image name and alt tag
