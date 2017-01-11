@@ -4,7 +4,7 @@
 
 | Purpose        | Link |
 | ------------- |:-------------:| -----:|
-| Removing Bacground    | https://clippingmagic.com/ |
+| Removing Background    | https://clippingmagic.com/ |
 | | |
 | | |
 | | |
