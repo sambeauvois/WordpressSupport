@@ -13,4 +13,8 @@
 
 ## SEO
 
-- /SEO/Tools.md
+| Purpose        | Link |
+| ------------- |:-------------:| -----:|
+| 45 tools for SEO   | http://www.seospike.com/ |
+| | |
+| | |
